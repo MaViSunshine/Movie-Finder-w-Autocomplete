@@ -1,3 +1,9 @@
+*{
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    
+}
 body {
     margin-left: 3%;
     margin-top: 2%;
